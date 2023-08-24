@@ -1,2 +1,2 @@
 # tournaments
-Chess engine matches (ongoing)
+Ongoing chess engine matches
