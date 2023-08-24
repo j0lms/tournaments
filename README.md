@@ -1,4 +1,4 @@
 # tournaments
 Ongoing chess engine matches
 
-* [[https://www.j0lms.com/lc1]][Lc1]]
+* [Lc1](https://wwwj0lms.com/lc1)
